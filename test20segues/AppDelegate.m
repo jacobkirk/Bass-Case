@@ -1,11 +1,3 @@
-//
-//  AppDelegate.m
-//  test20segues
-//
-//  Created by Jacob Kirk on 01/01/2014.
-//  Copyright (c) 2014 Jacob Kirk. All rights reserved.
-//
-
 #import "AppDelegate.h"
 
 @implementation AppDelegate

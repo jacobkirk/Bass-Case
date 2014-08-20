@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0500"
+   LastUpgradeVersion = "0510"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "82E0C3651874D5D100ACBECF"
-               BuildableName = "test20segues.app"
-               BlueprintName = "test20segues"
-               ReferencedContainer = "container:test20segues.xcodeproj">
+               BuildableName = "Bass Case.app"
+               BlueprintName = "Bass Case"
+               ReferencedContainer = "container:Bass Case.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "82E0C3861874D5D100ACBECF"
-               BuildableName = "test20seguesTests.xctest"
-               BlueprintName = "test20seguesTests"
-               ReferencedContainer = "container:test20segues.xcodeproj">
+               BuildableName = "Bass CaseTests.xctest"
+               BlueprintName = "Bass CaseTests"
+               ReferencedContainer = "container:Bass Case.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -43,9 +43,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "82E0C3651874D5D100ACBECF"
-            BuildableName = "test20segues.app"
-            BlueprintName = "test20segues"
-            ReferencedContainer = "container:test20segues.xcodeproj">
+            BuildableName = "Bass Case.app"
+            BlueprintName = "Bass Case"
+            ReferencedContainer = "container:Bass Case.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -62,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "82E0C3651874D5D100ACBECF"
-            BuildableName = "test20segues.app"
-            BlueprintName = "test20segues"
-            ReferencedContainer = "container:test20segues.xcodeproj">
+            BuildableName = "Bass Case.app"
+            BlueprintName = "Bass Case"
+            ReferencedContainer = "container:Bass Case.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -80,9 +80,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "82E0C3651874D5D100ACBECF"
-            BuildableName = "test20segues.app"
-            BlueprintName = "test20segues"
-            ReferencedContainer = "container:test20segues.xcodeproj">
+            BuildableName = "Bass Case.app"
+            BlueprintName = "Bass Case"
+            ReferencedContainer = "container:Bass Case.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
